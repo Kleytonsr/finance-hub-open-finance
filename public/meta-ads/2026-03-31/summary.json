@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-03-31T14:51:23.498Z",
+  "row_count": 39,
+  "result_metric_name": "lead",
+  "totals": {
+    "spend": 3485.06,
+    "impressions": 107419,
+    "clicks": 2452,
+    "reach": 59905,
+    "results": 215,
+    "ctr": 2.28,
+    "cpc": 1.42,
+    "cpa": 16.21
+  },
+  "top_campaigns": [
+    {
+      "campaign_id": "120239401341690753",
+      "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "spend": 829.63,
+      "clicks": 1225,
+      "results": 69,
+      "ctr": 3.29,
+      "cpa": 12.02
+    },
+    {
+      "campaign_id": "120239554523660753",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "spend": 953.84,
+      "clicks": 217,
+      "results": 35,
+      "ctr": 0.75,
+      "cpa": 27.25
+    },
+    {
+      "campaign_id": "120239690735450753",
+      "campaign_name": "[LEADS] Jardins  - 03/02",
+      "spend": 440.01,
+      "clicks": 274,
+      "results": 25,
+      "ctr": 2.62,
+      "cpa": 17.6
+    },
+    {
+      "campaign_id": "120200458571950753",
+      "campaign_name": "Captação de Corretores",
+      "spend": 262.09,
+      "clicks": 123,
+      "results": 24,
+      "ctr": 3.46,
+      "cpa": 10.92
+    },
+    {
+      "campaign_id": "120233625483440753",
+      "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "spend": 198.93,
+      "clicks": 213,
+      "results": 22,
+      "ctr": 5.46,
+      "cpa": 9.04
+    },
+    {
+      "campaign_id": "120214447018030753",
+      "campaign_name": "[LEAD] — CONTRATAÇÃO GERENTES",
+      "spend": 163.89,
+      "clicks": 81,
+      "results": 14,
+      "ctr": 2.43,
+      "cpa": 11.71
+    },
+    {
+      "campaign_id": "120241640751900753",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "spend": 374.83,
+      "clicks": 166,
+      "results": 14,
+      "ctr": 1.32,
+      "cpa": 26.77
+    },
+    {
+      "campaign_id": "120242025446740753",
+      "campaign_name": "[LEADS] Jardins  - 03/02 — Cópia",
+      "spend": 261.84,
+      "clicks": 153,
+      "results": 10,
+      "ctr": 2.03,
+      "cpa": 26.18
+    },
+    {
+      "campaign_id": "120234214510340753",
+      "campaign_name": "[LEAD] SANTANA 22/01 — OP1",
+      "spend": 0,
+      "clicks": 0,
+      "results": 2,
+      "ctr": 0,
+      "cpa": 0
+    }
+  ]
+}

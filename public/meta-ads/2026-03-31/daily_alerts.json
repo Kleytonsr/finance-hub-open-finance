@@ -1,0 +1,223 @@
+{
+  "generated_at": "2026-03-31T15:40:47.413Z",
+  "label_current": "2026-03-24 a 2026-03-30",
+  "label_previous": "2026-03-17 a 2026-03-23",
+  "alerts": [
+    {
+      "priority": "critico",
+      "type": "performance_atual",
+      "entity_type": "campaign",
+      "entity_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "campaign com status vermelho, CPA R$ 73.37, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "critico",
+      "type": "performance_atual",
+      "entity_type": "campaign",
+      "entity_name": "[LEAD]  INVEST SP/moema 16/03",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "message": "campaign com status vermelho, CPA R$ 26.77, alerta: criativo e relevancia fracos.",
+      "action": "trocar criativo/copy"
+    },
+    {
+      "priority": "alto",
+      "type": "tendencia_negativa",
+      "entity_type": "campaign",
+      "entity_name": "[LEADS] Jardins  - 03/02",
+      "campaign_name": "[LEADS] Jardins  - 03/02",
+      "message": "Campanha piorando no comparativo semanal. CPA atual R$ 23.12, anterior R$ 15.94.",
+      "action": "revisar criativos, publico e redistribuicao de verba"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "adset",
+      "entity_name": "ABERTO / GEO — ST. ANDRÉ",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "adset com status vermelho, CPA R$ 95.57, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "adset",
+      "entity_name": "ABERTO / GEO — ZS",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "adset com status vermelho, CPA R$ 69.43, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "adset",
+      "entity_name": "ABERTO / GEO — ZS/moema",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "message": "adset com status vermelho, CPA R$ 26.77, alerta: criativo e relevancia fracos.",
+      "action": "trocar criativo/copy"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "AD VD 2X INVESTE [ZS]",
+      "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "message": "ad com status vermelho, CPA R$ 16.72, alerta: operacao estavel.",
+      "action": "manter observacao"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "AP50173 — BARBA VD",
+      "campaign_name": "[LEADS] Jardins  - 03/02",
+      "message": "ad com status vermelho, CPA R$ 40.88, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "SO8367  — LÍVIA [GS]",
+      "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "message": "ad com status vermelho, CPA R$ 13.73, alerta: bom clique e conversao ruim.",
+      "action": "revisar publico, formulario ou oferta"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "SO8581 — SAID [GS]",
+      "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "message": "ad com status vermelho, CPA R$ 12.76, alerta: bom clique e conversao ruim.",
+      "action": "revisar publico, formulario ou oferta"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "CR 3 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad com status vermelho, CPA R$ 76.37, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "CR 1 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad com status vermelho, CPA R$ 58.83, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "CR 5 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad com status vermelho, CPA R$ 41.90, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "CR 2 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad com status vermelho, CPA indisponivel, alerta: gasto relevante sem lead.",
+      "action": "pausar ou revisar imediatamente"
+    },
+    {
+      "priority": "alto",
+      "type": "sem_lead",
+      "entity_type": "ad",
+      "entity_name": "CR 2 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad gastou R$ 81.93 sem gerar lead.",
+      "action": "pausar ou revisar criativo/oferta"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "CR 4 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "message": "ad com status vermelho, CPA R$ 98.33, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "MOEMA 1 — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "message": "ad com status vermelho, CPA R$ 20.56, alerta: operacao estavel.",
+      "action": "manter observacao"
+    },
+    {
+      "priority": "alto",
+      "type": "performance_atual",
+      "entity_type": "ad",
+      "entity_name": "IBIRAPUERA STUDIO — SILVANA [LANÇ] EST",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "message": "ad com status vermelho, CPA R$ 49.55, alerta: CPA muito acima da meta.",
+      "action": "reduzir verba e revisar estrutura"
+    },
+    {
+      "priority": "medio",
+      "type": "oportunidade",
+      "entity_type": "campaign",
+      "entity_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "message": "Campanha com oportunidade de escala: 21 leads, CPA R$ 9.47, CTR 5.46%.",
+      "action": "escalar gradualmente ou duplicar vencedor"
+    },
+    {
+      "priority": "baixo",
+      "type": "oportunidade",
+      "entity_type": "campaign",
+      "entity_name": "Captação de Corretores",
+      "campaign_name": "Captação de Corretores",
+      "message": "Campanha com oportunidade de escala: 24 leads, CPA R$ 10.92, CTR 3.46%.",
+      "action": "escalar gradualmente ou duplicar vencedor"
+    },
+    {
+      "priority": "baixo",
+      "type": "tendencia_positiva",
+      "entity_type": "campaign",
+      "entity_name": "Captação de Corretores",
+      "campaign_name": "Captação de Corretores",
+      "message": "Campanha melhorando no comparativo semanal. CPA atual R$ 8.34, anterior R$ 12.25.",
+      "action": "acompanhar e testar escala controlada"
+    },
+    {
+      "priority": "baixo",
+      "type": "tendencia_positiva",
+      "entity_type": "campaign",
+      "entity_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "message": "Campanha melhorando no comparativo semanal. CPA atual R$ 5.59, anterior R$ 14.40.",
+      "action": "acompanhar e testar escala controlada"
+    },
+    {
+      "priority": "baixo",
+      "type": "oportunidade",
+      "entity_type": "campaign",
+      "entity_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "message": "Campanha com oportunidade de escala: 62 leads, CPA R$ 13.38, CTR 3.29%.",
+      "action": "escalar gradualmente ou duplicar vencedor"
+    },
+    {
+      "priority": "baixo",
+      "type": "tendencia_positiva",
+      "entity_type": "campaign",
+      "entity_name": "[LEAD]  INVEST SP/moema 16/03",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "message": "Campanha melhorando no comparativo semanal. CPA atual R$ 22.17, anterior R$ 36.33.",
+      "action": "acompanhar e testar escala controlada"
+    }
+  ]
+}

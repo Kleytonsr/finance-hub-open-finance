@@ -1,0 +1,128 @@
+﻿data;cartao;titular;categoria;grupo;estabelecimento;valor;parcelado;tag_parcela
+01/04;final 4934;Maria Ilva;Mobilidade;99;99APP *99App;17,10;Nao;
+01/04;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;13,50;Nao;
+09/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Ad free for Pri;10,00;Nao;
+09/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;AmazonPrimeBR;19,90;Nao;
+09/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETA*46 136 626 CA;40,89;Nao;
+09/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETABR*SUSHI LIMAO LT;48,18;Nao;
+10/03;final 4934;Maria Ilva;Mobilidade;99;99APP *99App;16,90;Nao;
+10/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;7,50;Nao;
+10/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;49,99;Nao;
+10/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*CIRO ROSA DE LIMA;31,98;Nao;
+10/03;final 4934;Maria Ilva;Assinaturas e apps;iFood;IFD*IFOOD CLUB;6,99;Nao;
+10/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETABR*AUSTIN PUBLICI;47,12;Nao;
+10/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;15,40;Nao;
+10/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;18,90;Nao;
+10/03;final 2592;Jose Euripedes;Saude;Farmacias;RAIA DROGASIL SA;78,77;Nao;
+10/03;final 2592;Jose Euripedes;Mercado e casa;Mercado presencial;REU FRUTAS;10,00;Nao;
+10/11;final 4934;Maria Ilva;Assinaturas e apps;Kiwify;KIWIFY *LUMEB05/12;123,88;Sim;05/12
+10/12;final 2592;Jose Euripedes;Parcelados legados;Parcelados antigos;ConnectionPoint 16/16;304,32;Sim;16/16
+11/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;49,99;Nao;
+11/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;99,90;Nao;
+11/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;24,49;Nao;
+11/03;final 2592;Jose Euripedes;Mercado e casa;Casa e utilidades;CAROLINA SOARES-GAS;250,00;Nao;
+11/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*DROGARIA SAO PAULO;48,04;Nao;
+11/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Pedidos diretos;MCDONALDSECOMMERCE;51,90;Nao;
+11/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;PAYGO*SPECTER BARBERSH;130,00;Nao;
+11/03;final 2592;Jose Euripedes;Cuidado pessoal;Beleza e barbearia;PERFUMARIA TULIPE;56,47;Nao;
+11/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;18,10;Nao;
+11/06;final 1304;Tiago Euripedes;Compras online;Mercado Livre;MERCADOLIVRE*7PROD10/12;65,76;Sim;10/12
+12/03;final 4934;Maria Ilva;Mobilidade;99;DL*99 RIDE;15,10;Nao;
+12/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*40.161.303 ALEXSAN;96,57;Nao;
+12/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Pedidos diretos;LIV UP;246,50;Nao;
+12/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;23,04;Nao;
+12/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;38,98;Nao;
+12/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;29,98;Nao;
+13/01;final 4934;Maria Ilva;Compras online;Shopee;SHOPEE *KubeLoja 03/03;63,31;Sim;03/03
+13/01;final 4934;Maria Ilva;Compras online;Shopee;SHOPEE *SALONLINE 03/03;58,42;Sim;03/03
+13/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*DROGARIA SAO PAULO;48,35;Nao;
+13/03;final 2592;Jose Euripedes;Mercado e casa;Mercado presencial;SATO SUPERMERCADO;54,84;Nao;
+13/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;16,98;Nao;
+13/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;18,95;Nao;
+13/09;final 1304;Tiago Euripedes;Veiculo;Mercadocar;Mercadocar 07/07;149,96;Sim;07/07
+14/01;final 4934;Maria Ilva;Compras online;Shopee;SHOPEE *AVSTANDARD03/03;31,77;Sim;03/03
+14/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*ANDORINHA SUPERMER;636,32;Nao;
+15/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Prime Canais;19,90;Nao;
+16/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Prime Canais;34,90;Nao;
+16/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*CENTURY PAES E DOC;31,64;Nao;
+16/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;17,95;Nao;
+16/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;28,98;Nao;
+16/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;18,04;Nao;
+17/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;66,90;Nao;
+17/03;final 4934;Maria Ilva;Mobilidade;99;DL*99 RIDE;14,60;Nao;
+17/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;14,96;Nao;
+17/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;90,98;Nao;
+17/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;115,98;Nao;
+18/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;13,00;Nao;
+18/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;16,99;Nao;
+18/03;final 4934;Maria Ilva;Mobilidade;99;DL*99 RIDE;15,40;Nao;
+18/03;final 4934;Maria Ilva;Assinaturas e apps;iFood;IFD*IFOOD CLUB;5,95;Nao;
+18/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETA*KVIL LANCHES;47,97;Nao;
+18/03;final 4934;Maria Ilva;Assinaturas e apps;ChatGPT;OPENAI *CHATGPT SUBSCR;105,62;Nao;
+18/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;13,49;Nao;
+19/03;final 5260;Jose Euripedes;Mobilidade;99;99APP *99App;17,80;Nao;
+19/03;final 5260;Jose Euripedes;Mobilidade;99;99APP *99App;59,20;Nao;
+19/03;final 5260;Jose Euripedes;Apps de pedido e conveniencia;99;99Food *ZAMP S.A.;33,38;Nao;
+19/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;49,99;Nao;
+19/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Prime Canais;29,90;Nao;
+19/03;final 4934;Maria Ilva;Assinaturas e apps;NordVPN;EBANX_NORD* VPNCOM;22,90;Nao;
+19/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*CENTURY PAES E DOC;32,57;Nao;
+19/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;5,00;Nao;
+19/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;15,80;Nao;
+19/03;final 2592;Jose Euripedes;Mercado e casa;Mercado presencial;SATO SUPERMERCADO;36,51;Nao;
+19/03;final 2592;Jose Euripedes;Mercado e casa;Mercado presencial;SUPERMERCADO VIOLETA;56,67;Nao;
+19/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;39,98;Nao;
+19/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;22,78;Nao;
+19/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;22,95;Nao;
+20/03;final 5260;Jose Euripedes;Mobilidade;99;99APP *99App;24,70;Nao;
+20/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;54,90;Nao;
+20/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;8,45;Nao;
+20/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;14,80;Nao;
+20/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;13,49;Nao;
+20/11;final 5260;Jose Euripedes;Parcelados legados;Parcelados antigos;EC *JPS 05/10;193,04;Sim;05/10
+22/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;13,27;Nao;
+23/03;final 5260;Jose Euripedes;Mobilidade;99;99APP *99App;8,30;Nao;
+23/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;34,90;Nao;
+23/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;87,90;Nao;
+23/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;39,49;Nao;
+23/03;final 4934;Maria Ilva;Mobilidade;99;DL*99 RIDE;17,80;Nao;
+23/03;final 4934;Maria Ilva;Mobilidade;Uber;DL*UberRides;27,95;Nao;
+23/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*LA CASA DAS PALETA;22,83;Nao;
+23/03;final 4934;Maria Ilva;Assinaturas e apps;TIM;TIM*Tim;30,00;Nao;
+23/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;13,49;Nao;
+23/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;17,95;Nao;
+24/02;final 4934;Maria Ilva;Mercado e casa;Casa e utilidades;HIDROSOLUCOES HIDR02/03;161,34;Sim;02/03
+24/02;final 4934;Maria Ilva;Mercado e casa;Casa e utilidades;HIDROSOLUCOES HIDRAULI;-0,02;Nao;
+24/03;final 5260;Jose Euripedes;Mobilidade;99;99APP *99App;33,30;Nao;
+24/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;33,21;Nao;
+24/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETA*F S C BAR E R;52,68;Nao;
+24/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;14,10;Nao;
+24/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;17,06;Nao;
+25/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Prime Canais;12,90;Nao;
+25/03;final 4934;Maria Ilva;Assinaturas e apps;Amazon;Amazon Prime Canais;29,90;Nao;
+25/03;final 4934;Maria Ilva;Mobilidade;Uber;DL *UberRides;27,97;Nao;
+25/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;PAYGO*SPECTER BARBERSH;100,00;Nao;
+25/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Pedidos diretos;POINT SANTANA;70,60;Nao;
+25/03;final 2592;Jose Euripedes;Mercado e casa;Mercado presencial;SONDA ITABERABA;98,27;Nao;
+25/03;final 4934;Maria Ilva;Assinaturas e apps;Uber;UBER *ONE MEMBERSHIP U;3,99;Nao;
+25/03;final 4934;Maria Ilva;Mobilidade;Uber;UBER* TRIP;14,99;Nao;
+25/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;13,48;Nao;
+25/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;15,16;Nao;
+25/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;15,99;Nao;
+26/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;14,99;Nao;
+26/03;final 4934;Maria Ilva;Assinaturas e apps;Hub Educacional;MP *HUBEDUCACIONALIMO;74,54;Nao;
+26/03;final 5260;Jose Euripedes;Saude;OdontoPrev;ODONTOPREV*BRADESCO DE;61,49;Nao;
+26/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;15,25;Nao;
+26/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;17,04;Nao;
+27/03;final 4934;Maria Ilva;Assinaturas e apps;Apple;APPLECOMBILL;6,50;Nao;
+27/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;20,98;Nao;
+27/03;final 4934;Maria Ilva;Cuidado pessoal;Beleza e barbearia;BogaEBeleze;41,97;Nao;
+27/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*DAKI CD BARUER01/02;69,91;Sim;01/02
+27/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*ORGANIZACAO FARMAC;56,31;Nao;
+27/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;iFood;IFD*PAMELLA GONZAGA CO;22,73;Nao;
+27/03;final 4934;Maria Ilva;Apps de pedido e conveniencia;Keeta;KEETA*ALVARES BAR E;36,69;Nao;
+27/03;final 4934;Maria Ilva;Compras online;Mercado Livre;MERCADOLIVRE*NUTRI01/02;80,01;Sim;01/02
+27/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;15,76;Nao;
+28/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;15,20;Nao;
+28/03;final 4934;Maria Ilva;Mobilidade;99;PG *99 RIDE;17,49;Nao;
+28/03;final 4934;Maria Ilva;Mobilidade;Uber;Uber UBER *TRIP HELP.U;14,40;Nao;

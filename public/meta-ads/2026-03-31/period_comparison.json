@@ -1,0 +1,320 @@
+{
+  "generated_at": "2026-03-31T15:37:32.799Z",
+  "label_current": "2026-03-24 a 2026-03-30",
+  "label_previous": "2026-03-17 a 2026-03-23",
+  "summary_current": {
+    "spend": 1572.21,
+    "impressions": 51208,
+    "clicks": 1088,
+    "reach": 33363,
+    "leads": 84,
+    "ctr": 2.12,
+    "cpc": 1.45,
+    "cpa": 18.72
+  },
+  "summary_previous": {
+    "spend": 1082.17,
+    "impressions": 31002,
+    "clicks": 714,
+    "reach": 20273,
+    "leads": 53,
+    "ctr": 2.3,
+    "cpc": 1.52,
+    "cpa": 20.42
+  },
+  "rows": [
+    {
+      "campaign_id": "120200458571950753",
+      "campaign_name": "Captação de Corretores",
+      "current": {
+        "campaign_id": "120200458571950753",
+        "campaign_name": "Captação de Corretores",
+        "spend": 125.03,
+        "impressions": 1760,
+        "clicks": 71,
+        "reach": 1157,
+        "leads": 15,
+        "ctr": 4.034090909090909,
+        "cpc": 1.7609859154929577,
+        "cpa": 8.335333333333333
+      },
+      "previous": {
+        "campaign_id": "120200458571950753",
+        "campaign_name": "Captação de Corretores",
+        "spend": 85.74,
+        "impressions": 1037,
+        "clicks": 34,
+        "reach": 707,
+        "leads": 7,
+        "ctr": 3.278688524590164,
+        "cpc": 2.5217647058823527,
+        "cpa": 12.248571428571427
+      },
+      "delta": {
+        "spend_pct": 45.82,
+        "leads_pct": 114.29,
+        "cpa_pct": -31.95,
+        "ctr_pct": 23.04
+      },
+      "trend": {
+        "status": "melhorando",
+        "reason": "CPA caiu e volume se manteve ou cresceu"
+      }
+    },
+    {
+      "campaign_id": "120214447018030753",
+      "campaign_name": "[LEAD] — CONTRATAÇÃO GERENTES",
+      "current": {
+        "campaign_id": "120214447018030753",
+        "campaign_name": "[LEAD] — CONTRATAÇÃO GERENTES",
+        "spend": 77.16,
+        "impressions": 1566,
+        "clicks": 36,
+        "reach": 1087,
+        "leads": 7,
+        "ctr": 2.2988505747126435,
+        "cpc": 2.143333333333333,
+        "cpa": 11.022857142857143
+      },
+      "previous": {
+        "campaign_id": "120214447018030753",
+        "campaign_name": "[LEAD] — CONTRATAÇÃO GERENTES",
+        "spend": 55.56,
+        "impressions": 1219,
+        "clicks": 28,
+        "reach": 795,
+        "leads": 5,
+        "ctr": 2.2969647251845777,
+        "cpc": 1.9842857142857144,
+        "cpa": 11.112
+      },
+      "delta": {
+        "spend_pct": 38.88,
+        "leads_pct": 40,
+        "cpa_pct": -0.8,
+        "ctr_pct": 0.08
+      },
+      "trend": {
+        "status": "estavel",
+        "reason": "variacao dentro da faixa esperada"
+      }
+    },
+    {
+      "campaign_id": "120233625483440753",
+      "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+      "current": {
+        "campaign_id": "120233625483440753",
+        "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+        "spend": 83.86,
+        "impressions": 1673,
+        "clicks": 143,
+        "reach": 1069,
+        "leads": 15,
+        "ctr": 8.547519426180514,
+        "cpc": 0.5864335664335665,
+        "cpa": 5.5906666666666665
+      },
+      "previous": {
+        "campaign_id": "120233625483440753",
+        "campaign_name": "Captação de Corretores — NOVOS CRIATIVOS",
+        "spend": 57.61999999999999,
+        "impressions": 1207,
+        "clicks": 39,
+        "reach": 838,
+        "leads": 4,
+        "ctr": 3.2311516155758078,
+        "cpc": 1.4774358974358972,
+        "cpa": 14.404999999999998
+      },
+      "delta": {
+        "spend_pct": 45.54,
+        "leads_pct": 275,
+        "cpa_pct": -61.19,
+        "ctr_pct": 164.53
+      },
+      "trend": {
+        "status": "melhorando",
+        "reason": "CPA caiu e volume se manteve ou cresceu"
+      }
+    },
+    {
+      "campaign_id": "120239401341690753",
+      "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+      "current": {
+        "campaign_id": "120239401341690753",
+        "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+        "spend": 200.39999999999998,
+        "impressions": 11043,
+        "clicks": 352,
+        "reach": 6106,
+        "leads": 15,
+        "ctr": 3.187539617857466,
+        "cpc": 0.5693181818181817,
+        "cpa": 13.359999999999998
+      },
+      "previous": {
+        "campaign_id": "120239401341690753",
+        "campaign_name": "GESTÕES  ZN — ALTO PADRÃO [LEAD]  26/01",
+        "spend": 256.48,
+        "impressions": 11367,
+        "clicks": 363,
+        "reach": 5919,
+        "leads": 16,
+        "ctr": 3.19345473739773,
+        "cpc": 0.7065564738292012,
+        "cpa": 16.03
+      },
+      "delta": {
+        "spend_pct": -21.87,
+        "leads_pct": -6.25,
+        "cpa_pct": -16.66,
+        "ctr_pct": -0.19
+      },
+      "trend": {
+        "status": "estavel",
+        "reason": "variacao dentro da faixa esperada"
+      }
+    },
+    {
+      "campaign_id": "120239690735450753",
+      "campaign_name": "[LEADS] Jardins  - 03/02",
+      "current": {
+        "campaign_id": "120239690735450753",
+        "campaign_name": "[LEADS] Jardins  - 03/02",
+        "spend": 184.95000000000002,
+        "impressions": 5638,
+        "clicks": 128,
+        "reach": 3483,
+        "leads": 8,
+        "ctr": 2.270308620078042,
+        "cpc": 1.4449218750000001,
+        "cpa": 23.118750000000002
+      },
+      "previous": {
+        "campaign_id": "120239690735450753",
+        "campaign_name": "[LEADS] Jardins  - 03/02",
+        "spend": 255.06,
+        "impressions": 4821,
+        "clicks": 146,
+        "reach": 3055,
+        "leads": 16,
+        "ctr": 3.028417340800664,
+        "cpc": 1.746986301369863,
+        "cpa": 15.94125
+      },
+      "delta": {
+        "spend_pct": -27.49,
+        "leads_pct": -50,
+        "cpa_pct": 45.02,
+        "ctr_pct": -25.03
+      },
+      "trend": {
+        "status": "piorando",
+        "reason": "CPA subiu forte sem ganho de volume"
+      }
+    },
+    {
+      "campaign_id": "120239554523660753",
+      "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+      "current": {
+        "campaign_id": "120239554523660753",
+        "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+        "spend": 395.05,
+        "impressions": 13698,
+        "clicks": 95,
+        "reach": 9062,
+        "leads": 3,
+        "ctr": 0.6935319024675135,
+        "cpc": 4.158421052631579,
+        "cpa": 131.68333333333334
+      },
+      "previous": {
+        "campaign_id": "120239554523660753",
+        "campaign_name": "[LEAD] STUDIO INVEST SP 09/03",
+        "spend": 262.72,
+        "impressions": 7684,
+        "clicks": 57,
+        "reach": 5573,
+        "leads": 2,
+        "ctr": 0.7418011452368558,
+        "cpc": 4.6091228070175445,
+        "cpa": 131.36
+      },
+      "delta": {
+        "spend_pct": 50.37,
+        "leads_pct": 50,
+        "cpa_pct": 0.25,
+        "ctr_pct": -6.51
+      },
+      "trend": {
+        "status": "estavel",
+        "reason": "variacao dentro da faixa esperada"
+      }
+    },
+    {
+      "campaign_id": "120241640751900753",
+      "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+      "current": {
+        "campaign_id": "120241640751900753",
+        "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+        "spend": 243.92,
+        "impressions": 8284,
+        "clicks": 110,
+        "reach": 7005,
+        "leads": 11,
+        "ctr": 1.3278609367455336,
+        "cpc": 2.217454545454545,
+        "cpa": 22.174545454545452
+      },
+      "previous": {
+        "campaign_id": "120241640751900753",
+        "campaign_name": "[LEAD]  INVEST SP/moema 16/03",
+        "spend": 108.99,
+        "impressions": 3667,
+        "clicks": 47,
+        "reach": 3386,
+        "leads": 3,
+        "ctr": 1.2817016634851377,
+        "cpc": 2.318936170212766,
+        "cpa": 36.33
+      },
+      "delta": {
+        "spend_pct": 123.8,
+        "leads_pct": 266.67,
+        "cpa_pct": -38.96,
+        "ctr_pct": 3.6
+      },
+      "trend": {
+        "status": "melhorando",
+        "reason": "CPA caiu e volume se manteve ou cresceu"
+      }
+    },
+    {
+      "campaign_id": "120242025446740753",
+      "campaign_name": "[LEADS] Jardins  - 03/02 — Cópia",
+      "current": {
+        "campaign_id": "120242025446740753",
+        "campaign_name": "[LEADS] Jardins  - 03/02 — Cópia",
+        "spend": 261.84,
+        "impressions": 7546,
+        "clicks": 153,
+        "reach": 4394,
+        "leads": 10,
+        "ctr": 2.027564272462232,
+        "cpc": 1.7113725490196077,
+        "cpa": 26.183999999999997
+      },
+      "previous": null,
+      "delta": {
+        "spend_pct": null,
+        "leads_pct": null,
+        "cpa_pct": null,
+        "ctr_pct": null
+      },
+      "trend": {
+        "status": "novo",
+        "reason": "campanha sem historico no periodo anterior"
+      }
+    }
+  ]
+}
