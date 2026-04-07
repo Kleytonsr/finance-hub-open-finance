@@ -1,15 +1,21 @@
 import { getApiKey, pluggyRequest } from "./lib/pluggy.js";
 
-export default async function handler(event) {
-  if (event.httpMethod !== "POST") {
-    return {
-      statusCode: 405,
-      body: JSON.stringify({ error: "Method not allowed" }),
-    };
+function jsonResponse(status, payload) {
+  return new Response(JSON.stringify(payload), {
+    status,
+    headers: {
+      "Content-Type": "application/json",
+    },
+  });
+}
+
+export default async function handler(request) {
+  if (request.method !== "POST") {
+    return jsonResponse(405, { error: "Method not allowed" });
   }
 
   try {
-    const body = event.body ? JSON.parse(event.body) : {};
+    const body = await request.json().catch(() => ({}));
     const apiKey = await getApiKey();
     const payload = await pluggyRequest("/connect_token", {
       method: "POST",
@@ -20,24 +26,12 @@ export default async function handler(event) {
       },
     });
 
-    return {
-      statusCode: 200,
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        accessToken: payload.accessToken,
-      }),
-    };
+    return jsonResponse(200, {
+      accessToken: payload.accessToken,
+    });
   } catch (error) {
-    return {
-      statusCode: 500,
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        error: error.message || "Falha ao gerar o connect token.",
-      }),
-    };
+    return jsonResponse(500, {
+      error: error.message || "Falha ao gerar o connect token.",
+    });
   }
 }

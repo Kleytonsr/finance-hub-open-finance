@@ -1,20 +1,23 @@
 import { fetchPaged, getApiKey, pluggyRequest, pollItem } from "./lib/pluggy.js";
 
-export default async function handler(event) {
-  if (event.httpMethod !== "POST") {
-    return {
-      statusCode: 405,
-      body: JSON.stringify({ error: "Method not allowed" }),
-    };
+function jsonResponse(status, payload) {
+  return new Response(JSON.stringify(payload), {
+    status,
+    headers: {
+      "Content-Type": "application/json",
+    },
+  });
+}
+
+export default async function handler(request) {
+  if (request.method !== "POST") {
+    return jsonResponse(405, { error: "Method not allowed" });
   }
 
   try {
-    const body = event.body ? JSON.parse(event.body) : {};
+    const body = await request.json().catch(() => ({}));
     if (!body.itemId) {
-      return {
-        statusCode: 400,
-        body: JSON.stringify({ error: "itemId obrigatorio." }),
-      };
+      return jsonResponse(400, { error: "itemId obrigatorio." });
     }
 
     const apiKey = await getApiKey();
@@ -37,26 +40,14 @@ export default async function handler(event) {
       }),
     );
 
-    return {
-      statusCode: 200,
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        item,
-        accounts,
-        transactions: transactionsByAccount.flat(),
-      }),
-    };
+    return jsonResponse(200, {
+      item,
+      accounts,
+      transactions: transactionsByAccount.flat(),
+    });
   } catch (error) {
-    return {
-      statusCode: 500,
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        error: error.message || "Falha ao sincronizar item no Pluggy.",
-      }),
-    };
+    return jsonResponse(500, {
+      error: error.message || "Falha ao sincronizar item no Pluggy.",
+    });
   }
 }
