@@ -17,6 +17,7 @@ const DATA_URL = "/billing/itau-2026-04.json";
 const CONNECTION_STORAGE_KEY = "financehub.pluggy.connection";
 const CLIENT_USER_STORAGE_KEY = "financehub.pluggy.client-user";
 const FUNCTIONS_UNAVAILABLE_MESSAGE = "Este deploy esta sem as funcoes do Netlify. Para usar Open Finance, publique pelo repositorio no Netlify com netlify/functions e as variaveis PLUGGY_CLIENT_ID e PLUGGY_CLIENT_SECRET.";
+const TRIAL_MODE_MESSAGE = "Sua aplicacao Pluggy ainda esta em trial para conexoes reais. Para validar o MVP agora, use o fluxo Sandbox PF > Fluxo basico.";
 
 function readStoredConnection() {
   if (typeof window === "undefined") return null;
@@ -79,10 +80,24 @@ function getFunctionErrorMessage(response, payload, fallback) {
   }
 
   if (payload?.error) {
-    return payload.error;
+    return getFriendlyPluggyMessage(payload.error);
   }
 
   return fallback;
+}
+
+function getFriendlyPluggyMessage(message) {
+  if (!message) return message;
+
+  if (message.includes("TRIAL_CLIENT_ITEM_CREATE_NOT_ALLOWED")) {
+    return TRIAL_MODE_MESSAGE;
+  }
+
+  if (message.toLowerCase().includes("nenhuma conta disponivel para compartilhar")) {
+    return "Esse fluxo abriu a autorizacao real do meu.pluggy.ai, mas nao ha contas autorizaveis ali. Para o trial, volte e use Sandbox PF > Fluxo basico.";
+  }
+
+  return message;
 }
 
 export default function BillingDashboard() {
@@ -437,8 +452,9 @@ export default function BillingDashboard() {
   }
 
   function handleWidgetError(message) {
-    setConnectTokenState({ phase: "error", token: "", updateItem: null, error: message });
-    setSyncState({ phase: "error", error: message });
+    const friendlyMessage = getFriendlyPluggyMessage(message);
+    setConnectTokenState({ phase: "error", token: "", updateItem: null, error: friendlyMessage });
+    setSyncState({ phase: "error", error: friendlyMessage });
   }
 
   function handleWidgetClose() {

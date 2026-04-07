@@ -190,6 +190,29 @@
   line-height: 1.5;
 }
 
+.open-finance-guide {
+  border: 1px solid #eadbff;
+  border-radius: 18px;
+  background: rgba(247, 241, 255, 0.68);
+  padding: 14px;
+  display: grid;
+  gap: 8px;
+}
+
+.open-finance-guide-list {
+  margin: 0;
+  padding-left: 18px;
+  color: #475467;
+  display: grid;
+  gap: 6px;
+  line-height: 1.5;
+}
+
+.open-finance-guide-list strong {
+  font-size: inherit;
+  letter-spacing: normal;
+}
+
 .open-finance-status {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -231,6 +254,13 @@
     box-shadow 140ms ease,
     border-color 140ms ease,
     background-color 140ms ease;
+}
+
+.open-finance-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
 
 .open-finance-primary:hover,
